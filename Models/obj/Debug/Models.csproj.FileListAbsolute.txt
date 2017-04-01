@@ -1,0 +1,10 @@
+C:\Users\Luiz Barros\Desktop\Faculdade\Etapa 5\C#\Projects\Camada\ProjetoEmCamadas\Models\bin\Debug\Models.dll
+C:\Users\Luiz Barros\Desktop\Faculdade\Etapa 5\C#\Projects\Camada\ProjetoEmCamadas\Models\bin\Debug\Models.pdb
+C:\Users\Luiz Barros\Desktop\Faculdade\Etapa 5\C#\Projects\Camada\ProjetoEmCamadas\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\Users\Luiz Barros\Desktop\Faculdade\Etapa 5\C#\Projects\Camada\ProjetoEmCamadas\Models\obj\Debug\Models.dll
+C:\Users\Luiz Barros\Desktop\Faculdade\Etapa 5\C#\Projects\Camada\ProjetoEmCamadas\Models\obj\Debug\Models.pdb
+C:\Users\Luiz Barros\Desktop\Faculdade\Etapa 5\C#\Avaliacao\ProjetoEmCamadas\Models\bin\Debug\Models.dll
+C:\Users\Luiz Barros\Desktop\Faculdade\Etapa 5\C#\Avaliacao\ProjetoEmCamadas\Models\bin\Debug\Models.pdb
+C:\Users\Luiz Barros\Desktop\Faculdade\Etapa 5\C#\Avaliacao\ProjetoEmCamadas\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\Users\Luiz Barros\Desktop\Faculdade\Etapa 5\C#\Avaliacao\ProjetoEmCamadas\Models\obj\Debug\Models.dll
+C:\Users\Luiz Barros\Desktop\Faculdade\Etapa 5\C#\Avaliacao\ProjetoEmCamadas\Models\obj\Debug\Models.pdb

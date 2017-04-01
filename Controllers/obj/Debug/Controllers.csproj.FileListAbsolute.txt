@@ -1,0 +1,14 @@
+C:\Users\Luiz Barros\Desktop\Faculdade\Etapa 5\C#\Projects\Camada\ProjetoEmCamadas\Controllers\bin\Debug\Controllers.dll
+C:\Users\Luiz Barros\Desktop\Faculdade\Etapa 5\C#\Projects\Camada\ProjetoEmCamadas\Controllers\bin\Debug\Controllers.pdb
+C:\Users\Luiz Barros\Desktop\Faculdade\Etapa 5\C#\Projects\Camada\ProjetoEmCamadas\Controllers\bin\Debug\Models.dll
+C:\Users\Luiz Barros\Desktop\Faculdade\Etapa 5\C#\Projects\Camada\ProjetoEmCamadas\Controllers\bin\Debug\Models.pdb
+C:\Users\Luiz Barros\Desktop\Faculdade\Etapa 5\C#\Projects\Camada\ProjetoEmCamadas\Controllers\obj\Debug\Controllers.csprojResolveAssemblyReference.cache
+C:\Users\Luiz Barros\Desktop\Faculdade\Etapa 5\C#\Projects\Camada\ProjetoEmCamadas\Controllers\obj\Debug\Controllers.dll
+C:\Users\Luiz Barros\Desktop\Faculdade\Etapa 5\C#\Projects\Camada\ProjetoEmCamadas\Controllers\obj\Debug\Controllers.pdb
+C:\Users\Luiz Barros\Desktop\Faculdade\Etapa 5\C#\Avaliacao\ProjetoEmCamadas\Controllers\bin\Debug\Controllers.dll
+C:\Users\Luiz Barros\Desktop\Faculdade\Etapa 5\C#\Avaliacao\ProjetoEmCamadas\Controllers\bin\Debug\Controllers.pdb
+C:\Users\Luiz Barros\Desktop\Faculdade\Etapa 5\C#\Avaliacao\ProjetoEmCamadas\Controllers\bin\Debug\Models.dll
+C:\Users\Luiz Barros\Desktop\Faculdade\Etapa 5\C#\Avaliacao\ProjetoEmCamadas\Controllers\bin\Debug\Models.pdb
+C:\Users\Luiz Barros\Desktop\Faculdade\Etapa 5\C#\Avaliacao\ProjetoEmCamadas\Controllers\obj\Debug\Controllers.csprojResolveAssemblyReference.cache
+C:\Users\Luiz Barros\Desktop\Faculdade\Etapa 5\C#\Avaliacao\ProjetoEmCamadas\Controllers\obj\Debug\Controllers.dll
+C:\Users\Luiz Barros\Desktop\Faculdade\Etapa 5\C#\Avaliacao\ProjetoEmCamadas\Controllers\obj\Debug\Controllers.pdb
